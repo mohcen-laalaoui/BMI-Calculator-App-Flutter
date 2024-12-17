@@ -46,7 +46,6 @@ The **bmi_calculator** app allows users to assess their BMI by entering their we
 | Less than 18.5    | Underweight          |  
 | 18.5 – 24.9       | Normal weight        |  
 | 25.0 – 29.9       | Overweight           |  
-| 30.0 and above    | Obesity              |  
 
 ## 🛠 Technologies Used  
 - **Flutter**: Cross-platform app development framework.  
